@@ -9,6 +9,10 @@ info_team() {
 msg() {
   echo "> $1"
 }
+
+#Crea Bucket
+gsutil mb -p crp-dev-iac-testing -c standard -l us-central1 -b on gs://crp-dev-iac-testing-bkt14
+
 BKT="gs://crp-dev-iac-testing-bkt07/"
 msg "Creacion de carpetas"
 mkdir DATA
