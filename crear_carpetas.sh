@@ -32,17 +32,14 @@ BKT="gs://crp-dev-iac-testing-bkt07"
 init $PROYECTO $BKT
 
 msg "Creacion de carpetas"
-mkdir DATA
-
-if [[ $(gsutil ls $BKT/$ARCHIVO | wc -l) -ne 100 ]]; then 
-  for I in $(seq -f "%03g" 100); do
-    ARCHIVO="carpeta-$I/sinceramente.txt"
-    mkdir DATA/carpeta-$I
-    touch DATA/$ARCHIVO
-  done
-  msg "Copiado de datos al Bucket"
-  gsutil -m cp -r DATA/* $BKT
-fi
+mkdir -p DATA/grupo-04/
+for I in $(seq -f "%03g" 100); do
+  ARCHIVO="carpeta-$I/sinceramente.txt"
+  mkdir DATA/grupo-04/carpeta-$I
+  touch DATA/grupo-04/$ARCHIVO
+done
+msg "Copiado de datos al Bucket"
+gsutil -m cp -r DATA/* $BKT
 
 rm -rf DATA 2>/dev/null
 msg "Carpetas en el Bucket $BKT: $(gsutil ls $BKT | wc -l)"
