@@ -8,6 +8,8 @@ init(){
   fi
   if [[ -z "$(gsutil ls | grep $BKT)" ]]; then
     gsutil mb -p crp-dev-iac-testing -c standard -l us -b on $BKT
+    gsutil label ch -l grupo:grupo4 $BKT
+    gsutil label ch -l proyecto:golondrinas $BKT
     echo "> Creando bucket $BKT"
   else
     echo "> El bucket $BKT ya existe"
