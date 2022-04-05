@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 info_team() {
   echo "\\\\\\ Made by: Team 4 ///"
+  echo "\\\\\\ Executed by: $USER  ///"
+  echo "\\\\\\ Powered by: $(grep "^NAME" /etc/os-release | cut -d= -f2 | tr -d '"')  ///"
   echo "\\\\\\     ᕦ(ò_óˇ)ᕤ    ///"
   echo "__________________________"
 }
