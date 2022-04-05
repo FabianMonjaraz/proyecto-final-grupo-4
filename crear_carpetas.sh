@@ -9,7 +9,7 @@ info_team() {
 msg() {
   echo "> $1"
 }
-BKT="gs://crp-dev-cloudsrv-test-bkt07/"
+BKT="gs://crp-dev-iac-testing-bkt07/"
 msg "Creacion de carpetas"
 mkdir DATA
 for I in $(seq 100); do
