@@ -25,6 +25,8 @@ info_team() {
 }
 msg() {
   echo "> $1"
+  dt=`date +%y%m%d%H%M`
+  touch ./grupo04-$dt
 }
 
 PROYECTO=crp-dev-iac-testing
