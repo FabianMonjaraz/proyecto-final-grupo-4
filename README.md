@@ -19,7 +19,7 @@
 | Juan Carlos González   |   ![](img/Imagen_04.png)             |
 | Aarón Hernández        |               |
 | David Fabián Monjaraz  | Mente maestra ![](img/evid-dfmf.png)| 
-| Emmeline Enríquez      |   ![](img/lsemme.png |             |
+| Emmeline Enríquez      |   ![](img/lsemme.PNG) |             |
 
 <div align="left">
 
@@ -27,9 +27,15 @@
 ![](img/evid-creacion-1.png)
 ![](img/evid-creacion-2.png)
 ![](img/evid-creacion-3.png)
+<<<<<<< HEAD
 ![](img/emme_txt.png)
 ![](evidencia_emme.png)
 ![](img/Imagen_01.png)
 ![](img/Imagen_02.png)
 ![](img/Imagen_03.png)
 
+
+=======
+![](img/emme_txt.PNG)
+![](evidencia_emme.PNG)
+>>>>>>> a6ee6ad44d3f2d868fcf760bf88ce663ebc458ed
