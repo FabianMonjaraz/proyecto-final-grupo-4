@@ -18,13 +18,8 @@
 | Diana Lilia Rojas      |               |
 | Juan Carlos González   |               |
 | Aarón Hernández        |               |
-|                        |               |
-|                        |               |
-|                        |               |
-|                        |               |
-|                        |               |
 | David Fabián Monjaraz  | Mente maestra ![](img/evid-dfmf.png)| 
-| Emmeline Enríquez      |               |
+| Emmeline Enríquez      |   ![](img/lsemme.png |             |
 
 <div align="left">
 
@@ -32,3 +27,5 @@
 ![](img/evid-creacion-1.png)
 ![](img/evid-creacion-2.png)
 ![](img/evid-creacion-3.png)
+![](img/emme_txt.png)
+![](evidencia_emme.png)
