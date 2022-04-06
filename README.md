@@ -27,7 +27,7 @@
 ![](img/evid-creacion-1.png)
 ![](img/evid-creacion-2.png)
 ![](img/evid-creacion-3.png)
-![](img/emme_txt.png)
+![](img/emme_txt.PNG)
 ![](evidencia_emme.png)
 ![](img/Imagen_01.png)
 ![](img/Imagen_03.png)
