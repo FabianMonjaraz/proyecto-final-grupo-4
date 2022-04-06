@@ -13,12 +13,12 @@
 | Nombre                 | Aportación    |
 |------------------------|---------------|
 | José Luis Caballero    |  ![](img/evidencia_jlconew.png)|
-| Amairani Hernández     |               |
+| Amairani Hernández     | ![](img/Imagen_05.png) |
 | Maribel Fabiola Triana | ![](img/evidencia_fabbs.png)              |
 | Diana Lilia Rojas      | ![](img/golondrinaDiana.jpg)
               |
 | Juan Carlos González   |   ![](img/Imagen_04.png)             |
-| Aarón Hernández        |               |
+| Aarón Hernández  | ![](img/aavirtual_golondrinas.PNG)      |      
 | David Fabián Monjaraz  | Mente maestra ![](img/evid-dfmf.png)| 
 | Emmeline Enríquez      |   ![](img/lsemme.PNG) |             |
 
@@ -28,23 +28,14 @@
 ![](img/evid-creacion-1.png)
 ![](img/evid-creacion-2.png)
 ![](img/evid-creacion-3.png)
-<<<<<<< HEAD
 ![](img/emme_txt.png)
 ![](evidencia_emme.png)
 ![](img/Imagen_01.png)
 ![](img/Imagen_03.png)
-
-
-=======
 ![](img/emme_txt.PNG)
-![](evidencia_emme.PNG)
-<<<<<<< HEAD
->>>>>>> a6ee6ad44d3f2d868fcf760bf88ce663ebc458ed
-=======
+![](img/evidencia_emme.PNG)
 ![](img/fabbs_sinceramente.png)
->>>>>>> 2ee37b5b478089fe5282f1ff998a4ca544390116
-
-=======
 ![](img/imagen_05new.png)
-
-
+![](img/aavirtual_golondrinas.PNG)
+![](img/Imagen_06.png)
+![](img/Evidencia_final.png)
