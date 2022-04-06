@@ -23,9 +23,7 @@
 |                        |               |
 |                        |               |
 |                        |               |
-| David Fabián Monjaraz  | Mente maestra 
-![](img/evid-dfmf.png)| 
-
+| David Fabián Monjaraz  | Mente maestra ![](img/evid-dfmf.png)| 
 | Emmeline Enríquez      |               |
 
 <div align="left">
