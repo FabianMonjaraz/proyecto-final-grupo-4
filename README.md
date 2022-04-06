@@ -36,4 +36,4 @@
 ![](img/fabbs_sinceramente.png)
 ![](img/imagen_05new.png)
 ![](img/aavirtual_golondrinas.PNG)
-![](img/img/Imagen_06.png)
+![](img/Imagen_06.png)
