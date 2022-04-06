@@ -10,22 +10,27 @@
 
 <div align="center">
 
-| Nombre                    | Aportación  |
-|---------------------------|-------------|
-| José Luis Caballero       |             |
-| Amairani Hernández        |             |
-| Maribel Fabiola Triana    |             |
-| Diana Lilia Rojas         |             |  
-|Juan Carlos González       |             |
-|Aarón Hernández            |             | 
-|                           |             |
-|                           |             |
-|                           |             |
-|                           |             |
-|                           |             |
-|David Fabián Monjaraz      |  Mente maestra|
-|Emmeline Enríquez          |              |
+| Nombre                 | Aportación    |
+|------------------------|---------------|
+| José Luis Caballero    |               |
+| Amairani Hernández     |               |
+| Maribel Fabiola Triana |               |
+| Diana Lilia Rojas      |               |
+| Juan Carlos González   |               |
+| Aarón Hernández        |               |
+|                        |               |
+|                        |               |
+|                        |               |
+|                        |               |
+|                        |               |
+| David Fabián Monjaraz  | Mente maestra 
+![](img/evid-dfmf.png)| 
+
+| Emmeline Enríquez      |               |
 
 <div align="left">
 
 ## 2. Evidencias
+![](img/evid-creacion-1.png)
+![](img/evid-creacion-2.png)
+![](img/evid-creacion-3.png)
