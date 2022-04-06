@@ -15,7 +15,8 @@
 | José Luis Caballero    |  ![](img/evidencia_jlconew.png)|
 | Amairani Hernández     |               |
 | Maribel Fabiola Triana | ![](img/evidencia_fabbs.png)              |
-| Diana Lilia Rojas      |               |
+| Diana Lilia Rojas      | ![](img/golondrinaDiana.jpg)
+              |
 | Juan Carlos González   |   ![](img/Imagen_04.png)             |
 | Aarón Hernández        |               |
 | David Fabián Monjaraz  | Mente maestra ![](img/evid-dfmf.png)| 
@@ -45,3 +46,5 @@
 
 =======
 ![](img/imagen_05new.png)
+
+
