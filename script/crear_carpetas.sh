@@ -31,13 +31,15 @@ init(){
 
 crear_carpetas() {
 msg "Subida de datos al Bucket"
+msg "Limpieza del Bucket"
+gsutil -m rm -r $BKT/*
 mkdir grupo-04/
 for I in $(seq -f "%03g" 100); do
   mkdir grupo-04/carpeta-$I
   touch grupo-04/carpeta-$I/sinceramente.txt
 done
-gsutil -m cp -r grupo-4/ $BKT
-rm -rf grupo-4/
+gsutil -m cp -r grupo-04 $BKT
+rm -rf grupo-04
 }
 
 test_bucket_formateado() {
