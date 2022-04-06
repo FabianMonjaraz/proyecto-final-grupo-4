@@ -10,17 +10,16 @@
 
 <div align="center">
 
-| Nombre                 | Aportación    |
-|------------------------|---------------|
-| José Luis Caballero    |  ![](img/evidencia_jlconew.png)|
-| Amairani Hernández     | ![](img/Imagen_05.png) |
-| Maribel Fabiola Triana | ![](img/evidencia_fabbs.png)              |
-| Diana Lilia Rojas      | ![](img/golondrinaDiana.jpg)
-              |
+| Nombre                 | Aportación                     |
+|------------------------|--------------------------------|
+| José Luis Caballero    | ![](img/evidencia_jlconew.png) |
+| Amairani Hernández     | ![](img/Imagen_05.png)         |
+| Maribel Fabiola Triana | ![](img/evidencia_fabbs.png)   |
+| Diana Lilia Rojas      | ![](img/golondrinaDiana.jpg)   |
 | Juan Carlos González   |   ![](img/Imagen_04.png)             |
 | Aarón Hernández  | ![](img/aavirtual_golondrinas.PNG)      |      
 | David Fabián Monjaraz  | Mente maestra ![](img/evid-dfmf.png)| 
-| Emmeline Enríquez      |   ![](img/lsemme.PNG) |             |
+| Emmeline Enríquez      |   ![](img/lsemme.PNG)              |
 
 <div align="left">
 
