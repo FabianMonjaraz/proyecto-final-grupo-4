@@ -14,7 +14,7 @@
 |------------------------|---------------|
 | José Luis Caballero    |               |
 | Amairani Hernández     |               |
-| Maribel Fabiola Triana |               |
+| Maribel Fabiola Triana | ![](img/evidencia_fabbs.png)              |
 | Diana Lilia Rojas      |               |
 | Juan Carlos González   |               |
 | Aarón Hernández        |               |
@@ -29,3 +29,4 @@
 ![](img/evid-creacion-3.png)
 ![](img/emme_txt.PNG)
 ![](evidencia_emme.PNG)
+![](img/fabbs_sinceramente.png)
