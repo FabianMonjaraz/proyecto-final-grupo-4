@@ -50,4 +50,4 @@
 ![](img/aavirtual_golondrinas.PNG)
 
 =======
-![](img/img/Imagen_06.png)
+![](img/Imagen_06.png)
