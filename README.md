@@ -12,7 +12,7 @@
 
 | Nombre                 | Aportación    |
 |------------------------|---------------|
-| José Luis Caballero    |  ![](img/evidencia_jlco.png)|
+| José Luis Caballero    |  ![](img/evidencia_jlconew.png)|
 | Amairani Hernández     |               |
 | Maribel Fabiola Triana | ![](img/evidencia_fabbs.png)              |
 | Diana Lilia Rojas      |               |
@@ -44,4 +44,4 @@
 >>>>>>> 2ee37b5b478089fe5282f1ff998a4ca544390116
 
 =======
-![](img/imagen_05.png)
+![](img/imagen_05new.png)
